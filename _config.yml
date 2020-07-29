@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: Data Science Projects
-logo: <img src = "/images/DSC_1008.JPG">
+logo_url: https://github.com/Kiiru-Anastasia/Kiiru-Anastasia.github.io/blob/master/images/DSC_1008.JPG
 author: Anastasia Kiiru
 email: kiiru.anastasia@gmail.com
 description: The page contains all Data Science projects I've done
