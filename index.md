@@ -7,8 +7,8 @@ In progress...
 <img src = "">
 
 ## [Project 2 : African Social Media Influencers Analysis](https://github.com/Kiiru-Anastasia/10acadWeeklyChallenges/blob/master/Week1/scrapping_starter.ipynb)
+Involves:
 <ul>
-  <p>Involves:</p
   <li>Web scrapping of influencers from websites</li>
   <li>Searching and downloading Twitter data for the influencers using Twitter API</li>
   <li>Performing sentimental analysis to understand the influence score of each influencer to drive a marketing decision</li>
@@ -17,8 +17,8 @@ In progress...
 <img src = "https://github.com/Kiiru-Anastasia/Kiiru-Anastasia.github.io/blob/master/images/hashtags_barplot.png">
 
 ## [Project 3 : Health Data Analysis](https://github.com/Kiiru-Anastasia/10acadWeeklyChallenges/blob/master/Week0/tenx_covid19_analysis_KiiruAnastasia.ipynb)
+Involves:
 <ul>
-  <p>Involves:</p>
   <li>Getting data from WHO servers</li>
   <li>Analysing the death rate and the probability of dying between countries using collected data</li>
   <li>Analysing the probability of dying for age 30-70 with NCD</li>
