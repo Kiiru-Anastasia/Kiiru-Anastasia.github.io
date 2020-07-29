@@ -14,7 +14,7 @@ Involves:
   <li>Performing sentimental analysis to understand the influence score of each influencer to drive a marketing decision</li>
   <li>A sample plot derived in the project:</li>
 </ul>
-<img src = "https://github.com/Kiiru-Anastasia/Kiiru-Anastasia.github.io/blob/master/images/hashtags_barplot.png">
+<img src = "/images/hashtags_barplot.png">
 
 ## [Project 3 : Health Data Analysis](https://github.com/Kiiru-Anastasia/10acadWeeklyChallenges/blob/master/Week0/tenx_covid19_analysis_KiiruAnastasia.ipynb)
 Involves:
@@ -25,4 +25,4 @@ Involves:
   <li>Analysis of the cases, deaths and recoveries of COVID19 between countries with data from John Hopkins Server</li>
   <li>Sample plot derived in the project:</li>
 </ul>
-<img src = "https://github.com/Kiiru-Anastasia/Kiiru-Anastasia.github.io/blob/master/images/COVID19%20Confirmed%20Cases.png">
+<img src = "/images/COVID19%20Confirmed%20Cases.png">
