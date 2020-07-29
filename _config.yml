@@ -1,4 +1,9 @@
 theme: jekyll-theme-minimal
 title: Data Science Projects
 author: Anastasia Kiiru
-description: all data science projects I've done
+email: kiiru.anastasia@gmail.com
+description: The page contains all Data Science projects I've done
+
+#social links
+twitter_username: AnastasiaKiiru
+github_username: Kiiru-Anastasia
