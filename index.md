@@ -4,14 +4,41 @@ Involves:
 
 #### Exploratory Data Analysis
 <ul>
-  <li>Understanding class balance</li>
+  <li>Understanding class imbalance</li>
   <li>Univariate and Bivariate Analysis of categorical and numerical features</li>
   <li>Correlation of numerical features</li>
 </ul>
-  <li>Data cleaning</li>
-  <li>Feature Extraction</li>
-  <li>Development of Robust Machine Learning Algorithms</li>
-  <li>Sample plot derived in the project:</li>
+
+#### Data Cleaning
+<ul>
+  <li>checking for missing values</li>
+  <li>checking and dropping duplicated rows</li>
+  <li>Checking for and dealing with outliers in numerical features</li>
+</ul>
+
+#### Data Pre-processing
+<ul>
+  <li>One hot encoding of categorical features</li>
+  <li>Stardardization of numerical features</li>
+  <li>Dimensionality reduction using t-SNE, PCA and Autoencoders</li>
+  <li>Feature selection using RFE</li>
+  <li>Class balancing using SMOTE</li>
+</ul>
+
+#### Development of Robust Machine Learning Algorithms
+Involved model training using:
+<ul>
+  <li>Multilayer Perceptron</li>
+  <li>XGBoost</li>
+  <li>Random Forest</li>
+  <li>Decision Trees</li>
+</ul>
+Other concepts explored here are:
+<ul>
+  <li>K-fold cross-validation</li>
+  <li>Performance evaluation using confusion matrix, precision, recall, F-measure and support</li>
+</ul>
+Sample t-SNE plot derived in the project:</li>
 <img src = "/images/tsne_plot.png">
 
 ## [Project 2 : Pharmaceuticals Sales Prediction API](https://github.com/TeamFasilGhebb/salesPrediction)
