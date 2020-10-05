@@ -12,7 +12,7 @@ Involves:
   <li></li>
   <li>Sample plot derived in the project:</li>
 </ul>
-<img src = "/images/salespred_api.png">
+<img src = "/images/salespred_api.PNG">
 
 ## [Project 3 : Ad Campaign Performance with A/B Hypothesis Testing](https://github.com/Kiiru-Anastasia/10acadWeeklyChallenges/tree/master/Week4)
 Involves:
