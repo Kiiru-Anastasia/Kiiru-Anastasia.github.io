@@ -1,12 +1,37 @@
+## [Project 1 : Bank Institution Term Deposit Predictive Model](https://github.com/Kiiru-Anastasia/10acadWeeklyChallenges/tree/master/Week6)
+Involves:
+<ul>
+  <li></li>
+  <li>Sample plot derived in the project:</li>
+</ul>
+<img src = "/images/tsne_plot.png">
 
-## [Project 1 : Exploratory Data Analysis](https://github.com/Kiiru-Anastasia/10acadWeeklyChallenges/blob/master/Week2/User_Analytics.ipynb)
-In progress...
+## [Project 2 : Pharmaceuticals Sales Prediction API](https://github.com/TeamFasilGhebb/salesPrediction)
+Involves:
+<ul>
+  <li></li>
+  <li>Sample plot derived in the project:</li>
+</ul>
+<img src = "/images/salespred_api.png">
+
+## [Project 3 : Ad Campaign Performance with A/B Hypothesis Testing](https://github.com/Kiiru-Anastasia/10acadWeeklyChallenges/tree/master/Week4)
+Involves:
+<ul>
+  <li></li>
+  <li>Sample plot derived in the project:</li>
+</ul>
+<img src = "/images/hypotest.png">
+
+## [Project 4 : User Analytics in the Telecommunication Industry](https://github.com/Kiiru-Anastasia/10acadWeeklyChallenges/blob/master/Week2/User_Analytics.ipynb)
+Involves:
 <ul>
   <li>Analysing data from a Telecomunication company to drive an investments decision</li>
+  <li></li>
+  <li>Sample plot derived in the project:</li>
 </ul>
-<img src = "">
+<img src = "/images/experience_cluster.png">
 
-## [Project 2 : African Social Media Influencers Analysis](https://github.com/Kiiru-Anastasia/10acadWeeklyChallenges/blob/master/Week1/scrapping_starter.ipynb)
+## [Project 5 : African Social Media Influencers Analysis](https://github.com/Kiiru-Anastasia/10acadWeeklyChallenges/blob/master/Week1/scrapping_starter.ipynb)
 Involves:
 <ul>
   <li>Web scrapping of influencers from websites</li>
@@ -16,7 +41,7 @@ Involves:
 </ul>
 <img src = "/images/hashtags_barplot.png">
 
-## [Project 3 : Health Data Analysis](https://github.com/Kiiru-Anastasia/10acadWeeklyChallenges/blob/master/Week0/tenx_covid19_analysis_KiiruAnastasia.ipynb)
+## [Project 6 : Health Data Analysis](https://github.com/Kiiru-Anastasia/10acadWeeklyChallenges/blob/master/Week0/tenx_covid19_analysis_KiiruAnastasia.ipynb)
 Involves:
 <ul>
   <li>Getting data from WHO servers</li>
