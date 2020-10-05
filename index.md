@@ -1,6 +1,7 @@
 ## [Project 1 : Bank Institution Term Deposit Predictive Model](https://github.com/Kiiru-Anastasia/10acadWeeklyChallenges/tree/master/Week6)
 <p>Guided by a dataset from the bank of Portugal, this project aimed at developing a machine learning model to predict whetehr a customer would subscribe to a term deposit or not.</p>
 Involves:
+
 #### Exploratory Data Analysis
 <ul>
   <li>Understanding class balance</li>
