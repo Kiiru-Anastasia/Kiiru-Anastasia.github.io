@@ -1,9 +1,16 @@
 ## [Project 1 : Bank Institution Term Deposit Predictive Model](https://github.com/Kiiru-Anastasia/10acadWeeklyChallenges/tree/master/Week6)
+<p>Guided by a dataset from the bank of Portugal, this project aimed at developing a machine learning model to predict whetehr a customer would subscribe to a term deposit or not.</p>
 Involves:
+#### Exploratory Data Analysis
 <ul>
-  <li></li>
-  <li>Sample plot derived in the project:</li>
+  <li>Understanding class balance</li>
+  <li>Univariate and Bivariate Analysis of categorical and numerical features</li>
+  <li>Correlation of numerical features</li>
 </ul>
+  <li>Data cleaning</li>
+  <li>Feature Extraction</li>
+  <li>Development of Robust Machine Learning Algorithms</li>
+  <li>Sample plot derived in the project:</li>
 <img src = "/images/tsne_plot.png">
 
 ## [Project 2 : Pharmaceuticals Sales Prediction API](https://github.com/TeamFasilGhebb/salesPrediction)
