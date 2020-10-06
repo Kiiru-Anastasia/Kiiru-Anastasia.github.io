@@ -38,18 +38,42 @@ Other concepts explored here are:
   <li>K-fold cross-validation</li>
   <li>Performance evaluation using confusion matrix, precision, recall, F-measure and support</li>
 </ul>
-Sample t-SNE plot derived in the project:</li>
+Sample t-SNE plot derived in the project:
 <img src = "/images/tsne_plot.png">
 
-## [Project 2 : Pharmaceuticals Sales Prediction API](https://github.com/TeamFasilGhebb/salesPrediction)
+## [Project 2 : Pharmaceuticals Sales Prediction API](https://github.com/TeamFasilGhebb/salesPrediction/tree/dev)
+A group project that aimed at developing a sales prediction API for multiple pharmaceutical stores.
 Involves:
+
+#### Exploration of customer purchasing behavior
 <ul>
-  <li></li>
-  <li>Sample plot derived in the project:</li>
+  <li>Seasonality checks</li>
+  <li>Correlation analysis</li>
+  <li>Data Cleaning</li>
+  <li>Data Visualization</li>
 </ul>
-<img src = "/images/salespred_api.PNG">
+
+#### Prediction of Store Sales
+<ul>
+  <li>Preprocessing</li>
+  <li>Building models with sklearn pipelines</li>
+  <li>Choice and use of loss function</li>
+  <li>Post prediction analysis</li>
+  <li>Model serialization</li>
+</ul>
+
+#### Serving predictions on a web interface
+<ul>
+  <li>Basic webpage in HTML and CSS</li>
+  <li>Use of flask library for building server side applications</li>
+  <li>Preparing scripts for data preprocessing</li>
+  <li>Using serialized model for prediction</li>
+  <li>Heroku application deployment</li>
+</ul>
+While every member of the group performed customer exploration, I was charged with the design and deployment of the web application to Heroku platform. The [link](https://sales-prediction-api.herokuapp.com/) to the application.
 
 ## [Project 3 : Ad Campaign Performance with A/B Hypothesis Testing](https://github.com/Kiiru-Anastasia/10acadWeeklyChallenges/tree/master/Week4)
+The project aimed at determininig whether an ad campaign successfully raised awareness.
 Involves:
 <ul>
   <li></li>
