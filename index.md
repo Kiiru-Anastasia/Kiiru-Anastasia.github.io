@@ -71,6 +71,7 @@ Involves:
   <li>Heroku application deployment</li>
 </ul>
 While every member of the group performed customer exploration, I was charged with the design and deployment of the web application to Heroku platform. 
+
 [link](https://sales-prediction-api.herokuapp.com/) to the application.
 
 ## [Project 3 : Ad Campaign Performance with A/B Hypothesis Testing](https://github.com/Kiiru-Anastasia/10acadWeeklyChallenges/tree/master/Week4)
