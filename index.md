@@ -1,4 +1,24 @@
-## [Project 1 : Bank Institution Term Deposit Predictive Model](https://github.com/Kiiru-Anastasia/10acadWeeklyChallenges/tree/master/Week6)
+## [Project 1 : Moodle Database: Educational Data Log Analysis](https://github.com/Kiiru-Anastasia/10acadWeeklyChallenges/tree/master/Week10)
+<p>Focused on analyzing learners' activity in the Moodle Learning Management System, stored in a database, to understand the learners' skill and knowledge development.</p>
+Involves:
+
+#### Moodle database schema understanding
+<ul>
+  <li>Understanding the moodle database schema by exploring data in the database</li>
+  <li>Writing python class to pull data from the database.</li>
+</ul>
+
+#### Data Extraction Transformation and Loading (ETL)
+<ul>
+  <li>Using python class to perform log analysis</li>
+</ul>
+
+#### Dashboard making with Tableau
+<ul>
+  <li>Presenting analysis on dashboard</li>
+</ul>
+<div class='tableauPlaceholder' id='viz1604660541742' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;ed&#47;education_log_analysis&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='education_log_analysis&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;ed&#47;education_log_analysis&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1604660541742');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1000px';vizElement.style.height='827px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+## [Project 2 : Bank Institution Term Deposit Predictive Model](https://github.com/Kiiru-Anastasia/10acadWeeklyChallenges/tree/master/Week6)
 <p>Guided by a dataset from the bank of Portugal, this project aimed at developing a machine learning model to predict whetehr a customer would subscribe to a term deposit or not.</p>
 Involves:
 
@@ -41,7 +61,7 @@ Other concepts explored here are:
 Sample t-SNE plot derived in the project:
 <img src = "/images/tsne_plot.png">
 
-## [Project 2 : Pharmaceuticals Sales Prediction API](https://github.com/TeamFasilGhebb/salesPrediction/tree/dev)
+## [Project 3 : Pharmaceuticals Sales Prediction API](https://github.com/TeamFasilGhebb/salesPrediction/tree/dev)
 A group project that aimed at developing a sales prediction API for multiple pharmaceutical stores.
 Involves:
 
@@ -74,7 +94,7 @@ While every member of the group performed customer exploration, I was charged wi
 
 [link](https://sales-prediction-api.herokuapp.com/) to the application.
 
-## [Project 3 : Ad Campaign Performance with A/B Hypothesis Testing](https://github.com/Kiiru-Anastasia/10acadWeeklyChallenges/tree/master/Week4)
+## [Project 4 : Ad Campaign Performance with A/B Hypothesis Testing](https://github.com/Kiiru-Anastasia/10acadWeeklyChallenges/tree/master/Week4)
 The project aimed at determininig whether an ad campaign successfully raised awareness.
 Involves:
 <ul>
@@ -83,7 +103,7 @@ Involves:
 </ul>
 <img src = "/images/hypotest.png">
 
-## [Project 4 : User Analytics in the Telecommunication Industry](https://github.com/Kiiru-Anastasia/10acadWeeklyChallenges/blob/master/Week2/User_Analytics.ipynb)
+## [Project 5 : User Analytics in the Telecommunication Industry](https://github.com/Kiiru-Anastasia/10acadWeeklyChallenges/blob/master/Week2/User_Analytics.ipynb)
 Involves:
 <ul>
   <li>Analysing data from a Telecomunication company to drive an investments decision</li>
@@ -92,7 +112,7 @@ Involves:
 </ul>
 <img src = "/images/experience_cluster.png">
 
-## [Project 5 : African Social Media Influencers Analysis](https://github.com/Kiiru-Anastasia/10acadWeeklyChallenges/blob/master/Week1/scrapping_starter.ipynb)
+## [Project 6 : African Social Media Influencers Analysis](https://github.com/Kiiru-Anastasia/10acadWeeklyChallenges/blob/master/Week1/scrapping_starter.ipynb)
 Involves:
 <ul>
   <li>Web scrapping of influencers from websites</li>
@@ -102,7 +122,7 @@ Involves:
 </ul>
 <img src = "/images/hashtags_barplot.png">
 
-## [Project 6 : Health Data Analysis](https://github.com/Kiiru-Anastasia/10acadWeeklyChallenges/blob/master/Week0/tenx_covid19_analysis_KiiruAnastasia.ipynb)
+## [Project 7 : Health Data Analysis](https://github.com/Kiiru-Anastasia/10acadWeeklyChallenges/blob/master/Week0/tenx_covid19_analysis_KiiruAnastasia.ipynb)
 Involves:
 <ul>
   <li>Getting data from WHO servers</li>
